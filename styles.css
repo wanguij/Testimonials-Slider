@@ -12,7 +12,7 @@ body {
     width: 100vw;
     height: 100vh;
     margin: 10px;
-    background-image: url("./images/bg-desktop.svg");
+    background-image: url("./images/bg2-desktop.svg");
 
     background-position: center;
     background-repeat: no-repeat;
@@ -63,28 +63,3 @@ img {
     color: #202047;
 
 }
-
-/* .hero-image {
-    background-image: url("./images/bg-desktop.svg");
-    background-color: #cccccc;
-    height: 800px;
-    width: 1440px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-  } */
-
-/* .hero-text {
-    text-align: left;
-    position:absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color:blue;
-  } */
-/* .image-txt {
-    display: flex;
-    align-items: center;
-    flex-direction: row;
-  } */
